@@ -1,0 +1,24 @@
+florence:
+  name: "Florence"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  max_guests: 2
+benjamin:
+  name: "Benjamin"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 3
+  max_guests: 7
+amin:
+  name: "Amin"
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  max_guests: 5
